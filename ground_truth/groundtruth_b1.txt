@@ -1,0 +1,100 @@
+
+Invoice no: 51109338 
+
+Date of issue:                              04/13/2013 
+
+Seller:                                      Client: 
+
+ Andrews, Kirby and Valdez                    Becker Ltd 
+ 58861 Gonzalez Prairie                       8012 Stewart Summit Apt. 455 
+ Lake Daniellefurt, IN 57228                  North Douglas, AZ 95355 
+
+ Tax Id: 945-82-2137                          Tax Id: 942-80-0517 
+ IBAN: GB75MCRL06841367619257 
+
+ITEMS 
+
+  No. Description                   Qty   UM      Net price Net worth   VAT [%]     Gross 
+                                                                                    worth 
+
+   1. CLEARANCE! Fast Dell Desktop 3,00   each       209,00     627,00     10%      689,70 
+       Computer PC DUAL CORE 
+       WINDOWS 10 4/8/16GB RAM 
+
+   2. HP T520 Thin Client Computer 5,00   each       37,75      188,75     10%      207,63 
+       AMD GX-212JC 1.2GHz 4GB RAM 
+       TESTED !! READ BELOW !! 
+
+   3. gaming pc desktop computer    1,00 each        400,00     400,00     10%      440,00 
+
+   4. 12-Core Gaming Computer       3,00 each        464,89   1 394,67     10%     1 534,14 
+       Desktop PC Tower Affordable 
+       GAMING PC 8GB AMD Vega RGB 
+
+   5. Custom Build Dell Optiplex 9020 5,00 each      221,99   1 109,95     10%     1 220,95 
+       MT i5-4570 3.20GHz Desktop 
+       Computer PC 
+
+   6. Dell Optiplex 990 MT Computer 4,00 each        269,95   1 079,80     10%     1 187,78 
+       PC Quad Core i7 3.4GHz 16GB 
+       2TB HD Windows 10 Pro 
+
+   7. Dell Core 2 Duo Desktop       5,00 each        168,00     840,00     10%      924,00 
+       Computer | Windows XP Pro | 
+       4GB | 500GB 
+
+ SUMMARY 
+
+                                 VAT [%]            Net worth        VAT        Gross worth 
+
+                                   10%                5 640,17     564,02          6 204,19 
+
+                        Total                       $ 5 640,17   $ 564,02        $ 6 204,19 
+<<<
+
+Invoice no: 12847181 
+
+Date of issue:                           03/03/2012 
+
+Seller:                                    Client: 
+
+ Fitzpatrick and Sons                      Duncan PLC 
+ 00480 Cook Cove                           Unit 8799 Box 0703 
+ Spencerport, UT 12036                     DPO AP 81970 
+
+ Tax Id: 998-99-5253                       Tax Id: 911-82-7132 
+ IBAN: GB92PBPQ73499358975916 
+
+ITEMS 
+
+  No. Description                 Qty   UM     Net price Net worth VAT [%]      Gross 
+                                                                                worth 
+
+   1. HP Desktop Computer PC      4,00 each       139,95    559,80     10%     615,78 
+       Core i5 16GB 2TB HD 256GB 
+       SSD 22" LCD Windows 10 
+
+   2. CUSTOM BUILT AMD RYZEN      3,00 each     1 400,00   4 200,00    10%    4 620,00 
+       THREADRIPPER GAMING 
+       COMPUTER , 32 GB RAM, 
+
+   3. Fast Dell Optiplex Desktop PC 1,00 each     217,00    217,00     10%     238,70 
+       Computer Dual Core 3.4Ghz 
+       8GB 1TB Win 10 Pro WIFI 
+
+   4. Dell Optiplex 790 Computer i7 3,00 each     159,99    479,97     10%     527,97 
+       @ 3.40 Ghz Quad Core 250GB 
+       4GB Working 
+
+   5. Vintage Microsolutions Pentium 2,00 each    390,00    780,00     10%     858,00 
+       133mhz Desktop Tower PC 
+       Windows 95 5.25 Floppy 
+
+ SUMMARY 
+    
+                                VAT [%]          Net worth       VAT       Gross worth 
+
+                                 10%               6 236,77     623,68        6 860,45 
+
+                       Total                     $ 6 236,77   $ 623,68      $ 6 860,45 
+<<<

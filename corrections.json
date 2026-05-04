@@ -1,0 +1,151 @@
+{
+    "_comment": "OCR post-correction dictionary. Add entries as you spot recurring errors.",
+    "_usage": "words = whole-word replacements (case-preserving), phrases = substring replacements, regex = pattern-based",
+
+    "words": {
+        "Cyanocrylate": "Cyanoacrylate",
+        "Cyanacrylate": "Cyanoacrylate",
+        "Cyanocylate": "Cyanoacrylate",
+        "OSAWA": "OSHAWA",
+        "Nuget": "Nugget",
+        "Nugent": "Nugget",
+        "pailt": "pail",
+        "Multipup": "Multipurp",
+        "Alumimum": "Aluminum",
+        "Alumnum": "Aluminum",
+        "Alhambra": "Aluminum",
+        "Adhiesive": "Adhesive",
+        "Adhseive": "Adhesive",
+        "Adhessive": "Adhesive",
+        "Adh.esive": "Adhesive",
+        "Fluoresecent": "Fluorescent",
+        "Flourescent": "Fluorescent",
+        "Threadlcker": "Threadlocker",
+        "Threadloker": "Threadlocker",
+        "Sythetic": "Synthetic",
+        "Transparant": "Transparent",
+        "Transprant": "Transparent",
+        "Proteective": "Protective",
+        "Protecive": "Protective",
+        "Finesse-lt": "Finesse-it",
+        "Orbtial": "Orbital",
+        "Orbtal": "Orbital",
+        "Hardner": "Hardener",
+        "Genaral": "General",
+        "Genral": "General",
+        "INDEPENDANCE": "INDEPENDENCE",
+        "INDPENDENCE": "INDEPENDENCE",
+        "RICHMND": "RICHMOND",
+        "RICMOND": "RICHMOND",
+        "MISSISSAGA": "MISSISSAUGA",
+        "MISSISAUGA": "MISSISSAUGA",
+        "Ontairo": "Ontario",
+        "Ontaro": "Ontario",
+        "Qubec": "Quebec",
+        "Qubeec": "Quebec",
+        "Spencerporl": "Spencerport",
+        "Spencerprt": "Spencerport",
+        "Invoce": "Invoice",
+        "lnvoice": "Invoice",
+        "Desription": "Description",
+        "Descripton": "Description",
+        "Quantiy": "Quantity",
+        "Quantlty": "Quantity",
+        "Subtotal": "Subtotal",
+        "Subtotai": "Subtotal",
+        "SUMMAY": "SUMMARY",
+        "SUMARY": "SUMMARY"
+    },
+
+    "phrases": {
+        "Rubber&Vinyl": "Rubber& Vinyl",
+        "Rubber& Vinyl": "Rubber& Vinyl",
+        "Prot.Tp.": "Prot. Tp.",
+        "Prot.Tp": "Prot. Tp",
+        "Prot .Tp": "Prot. Tp",
+        "WING/FUSE/LAGE": "WING/FUSELAGE",
+        "Unit#8, CONCORD, L4K": "Unit#8,CONCORD,L4K",
+        "Total: $8533": "Total:$8533"
+    },
+
+    "regex": [
+        {
+            "_comment": "Fix double quote being used instead of single quote for feet after an x dimension (e.g. 12\"x1000\")",
+            "pattern": "x(\\d+)\"",
+            "replacement": "x\\1'",
+            "ignore_case": true
+        },
+        {
+            "_comment": "Strip leftover LaTeX escaped parens \\( and \\)",
+            "pattern": "\\\\[\\(\\)]",
+            "replacement": "",
+            "ignore_case": false
+        },
+        {
+            "_comment": "Strip leftover LaTeX escaped brackets \\[ and \\]",
+            "pattern": "\\\\[\\[\\]]",
+            "replacement": "",
+            "ignore_case": false
+        },
+        {
+            "_comment": "Normalize curly/smart single quotes to straight apostrophe",
+            "pattern": "[\u2018\u2019\u2032]",
+            "replacement": "'",
+            "ignore_case": false
+        },
+        {
+            "_comment": "Normalize curly/smart double quotes to straight double quote",
+            "pattern": "[\u201c\u201d\u2033]",
+            "replacement": "\"",
+            "ignore_case": false
+        },
+        {
+            "_comment": "Replace checkbox symbol with empty string (OCR artifact)",
+            "pattern": "\u2610",
+            "replacement": "",
+            "ignore_case": false
+        },
+        {
+            "_comment": "Normalize inconsistent spacing around &",
+            "pattern": "(\\w)&(\\w)",
+            "replacement": "\\1 & \\2",
+            "ignore_case": false
+        },
+        {
+            "_comment": "Fix common OCR doubling of periods: .. -> .",
+            "pattern": "\\.{2,}",
+            "replacement": ".",
+            "ignore_case": false
+        },
+        {
+            "_comment": "Clean up excessive exclamation marks: !!! -> !",
+            "pattern": "!{3,}",
+            "replacement": "!!",
+            "ignore_case": false
+        },
+        {
+            "_comment": "Fix missing space before exclamation at word boundary: word!! -> word !!",
+            "pattern": "(\\w)(!{2,})",
+            "replacement": "\\1 \\2",
+            "ignore_case": false
+        },
+        {
+            "_comment": "Remove extra spaces before commas",
+            "pattern": "\\s+,",
+            "replacement": ",",
+            "ignore_case": false
+        },
+        {
+            "_comment": "Remove extra spaces before periods (but not in abbreviations like 'Prot. Tp')",
+            "pattern": "\\s+\\.(\\s)",
+            "replacement": ".\\1",
+            "ignore_case": false
+        },
+        {
+            "_comment": "Normalize multiplication sign in dimensions: x -> x (lowercase)",
+            "pattern": "(\\d)\\s*[Xx\u00d7]\\s*(\\d)",
+            "replacement": "\\1x\\2",
+            "ignore_case": false
+        }
+    ]
+}
