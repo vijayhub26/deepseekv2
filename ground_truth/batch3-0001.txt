@@ -1,0 +1,296 @@
+[Page 1]
+
+The Nussbaum Center for Entrepreneurship
+1451 S Elm Eugene Street
+Box 35
+Greensboro, NC 27406 US
+lhazlett@nussbaumcfe.com
+www.nussbaumcfe.com
+
+INVOICE
+
+BILL TO                         SHIP TO                         INVOICE    2197
+Leo Charles Vincent             Leo Charles Vincent             DATE       04/01/2023
+Abaxys Tech, LLC                Abaxys Tech, LLC                TERMS      Due on receipt
+                                                                DUE DATE   04/01/2023
+
+DATE    ACTIVITY            DESCRIPTION                 QTY     RATE        AMOUNT
+
+        Service Revenue     Suite 2009                  1       271.00      271.00
+        Internet            Suite 2009 Internet Fee     1       75.00       75.00
+
+                                        SUBTOTAL                            346.00
+                                        TAX                                   0.00
+                                        TOTAL                               346.00
+                                        BALANCE DUE                        $346.00
+
+================================================================================
+
+[Page 2]
+
+                                                        Invoice
+                                                        Meld #233582
+
+CLK ENGRAVING
+
+24 Garnett Drive
+AJAX, L1S 4X6
+
+Total: $4061
+
+--------------------------------------------------------------------------------
+
+From
+
+AJAX
+L1S 4X6
+
+Ticket Completed                        Invoice date
+Sept. 17, 2023                          Sept. 6, 2023
+
+--------------------------------------------------------------------------------
+
+Notes
+Unclogged the disposal and repaired the stove knob. Both working as they should.
+
+No.     Description                         Quantity    Rate    Cost    Amount
+
+6180    Dynabrade 50126 3" Hook Pad         5           $15     $15     $75
+5541    3M 00509 Hookit Disc 751U           2           $39     $39     $78
+6102    3M 465 Transfer Tape - 2 Mil.       9           $12     $12     $108
+6402    PPT SHAPE, LEADING EDGE WING        6           $10     $10     $60
+5753    3M 200 Tartan Masking Tape          6           $1      $1      $6
+5814    3M 2307 Masking Tape Tan            4           $3      $3      $12
+6106    High Solid Epoxy Enamel EC-264      4           $477    $477    $1908
+5738    S3401 FR D/C Cloth 2" x 36yds      1           $16     $16     $16
+6476    3M 8672 PPT 4"x36yd Transparent    4           $111    $111    $444
+
+================================================================================
+
+[Page 3]
+
+                                                        Invoice
+                                                        Meld #214139
+
+A.E. Blake Montreal
+
+3588 boulevard Poirier
+Montréal, H4R 2J5
+
+Total: $7599
+
+--------------------------------------------------------------------------------
+
+From
+
+None
+Montréal
+H4R 2J5
+
+Ticket Completed                        Invoice date
+Oct. 6, 2023                            Sept. 9, 2023
+
+--------------------------------------------------------------------------------
+
+Notes
+Unclogged the disposal and repaired the stove knob. Both working as they should.
+
+No.     Description                         Quantity    Rate    Cost    Amount
+
+5934    3M 33+ Electrical BLK 3/4"x66'     6           $5      $5      $30
+5787    Scotch Weld Repair Paste 2110       9           $119    $119    $1071
+5544    Dynabrade 01480 Blade               9           $11     $11     $99
+6194    3M 522416 Quick Change TS Disc      4           $1      $1      $4
+6205    Dynabrade 5" Conversion Kit         4           $7      $7      $28
+5745    Patco 1800-4" Black Tape            10          $59     $59     $590
+6423    3M 836RP-60 Lint Roller Refill      3           $3      $3      $9
+5960    3M SJ3518FR Scotchmate Fast LP      2           $104    $104    $208
+5792    3M 218 Fine Line Masking Tape       6           $8      $8      $48
+
+================================================================================
+
+[Page 4]
+
+INVOICE 210486
+
+                                            CITY KITCHENS INC.
+                                            (602) 519-0450
+                                            company@example.com
+
+CLIENT:     CITY KITCHENS INC.
+ADDRESS:    216 Doughton Road
+            CONCORD
+            L4K 1R4
+EMAIL:      john@example.com
+DATE:       July 25, 2023
+DUE DATE:   Aug. 31, 2023
+
+#       DESCRIPTION                     PRICE       QTY     TOTAL
+
+6146    3M 4930 VHB Acrylic Foam Tape   $126        3       $378
+5630    3M 1075 Delta Hang Tabs         $40         3       $120
+6481    3M 8681HS Prot. Tape - Grey     $1821       6       $10926
+5957    Aviox Hardener 90150            $205        2       $410
+6121    3M 471 Yellow Vinyl Tape        $6          3       $18
+6101    3M 465 Transfer Tape - 2 Mil.   $7          5       $35
+5980    3M SJ3527 Scotchmate Fastener   $229        9       $2061
+5785    3M 2097 Particulate Filter      $91         4       $364
+5569    3M Super Buff Compound Pads     $26         5       $130
+6372    3M 78-8052-6564-8 Shaft         $25         9       $225
+
+================================================================================
+
+[Page 5]
+
+(Continuation of INVOICE 210486)
+
+#       DESCRIPTION                     PRICE       QTY     TOTAL
+
+6037    3M 3939 Duct Tape - Silver      $4          7       $28
+5806    Loctite 222MS Small Screw T/L   $2          1       $2
+6040    3W29 Polymask Tape 36"x300'     $38         8       $304
+6222    3M 5498 Silicone Free PTFE Tap  $56         7       $392
+
+                                        SUBTOTAL            $2440
+                                        TAX 25%             $1,300.00
+                                        GRAND TOTAL         $2791
+
+NOTICE:
+A finance charge of 1.5% will be made on unpaid balances after 30 days.
+Invoice was created on a computer and is valid without the signature and seal.
+
+================================================================================
+
+[Page 6]
+
+INVOICE 562113
+
+                                            ARTISAN COMPLETE
+                                            (602) 519-0450
+                                            company@example.com
+
+CLIENT:     ARTISAN COMPLETE
+ADDRESS:    331 Amber Street
+            MARKHAM
+            L3R 3L7
+EMAIL:      john@example.com
+DATE:       July 25, 2023
+DUE DATE:   Aug. 27, 2023
+
+#       DESCRIPTION                         PRICE   QTY     TOTAL
+
+6168    Tesa 4965 D/C VHB                   $13     6       $78
+6172    3M 4979F VHB Acrylic Foam BLK       $109    9       $981
+6280    3M 606NF Weatherban Acryl Seal      $16     1       $16
+5602    3M 08620 Window Weld 1/4"x15'       $6      3       $18
+6349    DC 748 Non-Corrosive Sealant        $8      2       $16
+5766    Araldite #2013 B/A 50ml D/SYNG      $6      3       $18
+6109    3M 467MP Adh. Transfer Tape         $51     4       $204
+6237    Non Vacuum Pad Vinyl 3"x4" 1/4      $17     3       $51
+6391    81120905-103 - PPT SHAPE            $7      3       $21
+6325    3M SCOTCHCAL Matte Black            $131    2       $262
+
+================================================================================
+
+[Page 7]
+
+(Continuation of INVOICE 562113)
+
+#       DESCRIPTION                         PRICE   QTY     TOTAL
+
+6419    825 PVC Tape - Clear                $4      7       $28
+5671    3M 130C Splicing 1 1/2" x 30'      $18     6       $108
+6307    3M 69 Glass Cloth Tape - White      $34     2       $68
+5778    3M 20325 Random Orbital Sander 6"   $144    2       $288
+
+                                        SUBTOTAL            $6992
+                                        TAX 25%             $1,300.00
+                                        GRAND TOTAL         $3356
+
+NOTICE:
+A finance charge of 1.5% will be made on unpaid balances after 30 days.
+Invoice was created on a computer and is valid without the signature and seal.
+
+================================================================================
+
+[Page 8]
+
+INVOICE 809582
+
+                                            AXIS MOBILITY LIMITED
+                                            (602) 519-0450
+                                            company@example.com
+
+CLIENT:     AXIS MOBILITY LIMITED
+ADDRESS:    336 Windmill Road
+            DARTMOUTH
+            B3A 1H9
+EMAIL:      john@example.com
+DATE:       Aug. 3, 2023
+DUE DATE:   Aug. 25, 2023
+
+#       DESCRIPTION                         PRICE   QTY     TOTAL
+
+6355    FR3 001/100 Foam Sheet              $161    2       $322
+5967    3M SJ3519FR Scotchmate Fast HK      $107    9       $963
+5780    Araldite #2040 B/A 50ml D/SYNG      $18     4       $72
+6175    3M 5 S/W Contact Adhesive           $239    8       $1912
+5657    3M 1181 Copper Foil Shielding       $21     1       $21
+6366    3M 78-8100-1205-0 Drive Assy.       $1299   3       $3897
+5610    Green Belting Teflon 100-5S-3       $176    5       $880
+6507    Dynabrade 90081 Sheepskin           $8      4       $32
+5785    3M 2097 Particulate Filter          $91     9       $819
+6114    3M 468MP Adh. Transfer Tape         $766    8       $6128
+
+================================================================================
+
+[Page 9]
+
+(Continuation of INVOICE 809582)
+
+#       DESCRIPTION                         PRICE   QTY     TOTAL
+
+5709    Velcro Hook Beige 88 F/R 2"         $42     7       $294
+6429    3M 847L Rubber & Gasket Adh.        $33     10      $330
+6272    3M 5P71/07194 Part. Filter          $14     9       $126
+6413    3M 8179C Protective Tape            $416    1       $416
+
+                                        SUBTOTAL            $5393
+                                        TAX 25%             $1,300.00
+                                        GRAND TOTAL         $3533
+
+NOTICE:
+A finance charge of 1.5% will be made on unpaid balances after 30 days.
+Invoice was created on a computer and is valid without the signature and seal.
+
+================================================================================
+
+[Page 10]
+
+INVOICE 520307
+
+                                            Eau Zone Huiles & Fragrances
+                                            Suite 825
+                                            (602) 519-0450
+                                            company@example.com
+
+CLIENT:     Eau Zone Huiles & Fragrances
+ADDRESS:    1625 Chabanel Ouest
+            Montreal
+            H4N 2S7
+EMAIL:      john@example.com
+DATE:       Aug. 13, 2023
+DUE DATE:   Sept. 19, 2023
+
+#       DESCRIPTION                         PRICE   QTY     TOTAL
+
+5745    Patco 1800-4" Black Tape            $59     3       $177
+5717    3M Adapter 16053                    $13     10      $130
+5629    3M 1074 Hang Tabs Clear 1"x2"       $26     10      $260
+5902    3M 30NF Fastbond Contact Adh.       $2192   1       $2192
+6411    3M 8179C Protective 24" x 500       $259    1       $259
+6423    3M 836RP-60 Lint Roller Refill      $3      6       $18
+6157    3M 4949 VHB Acryl. Foam Tape        $110    10      $1100
+6054    4101P001/CS4901 CF EpoxyPrimer      $325    8       $2600
+6353    3M 7502/37082 Half Mask Medium      $20     3       $60
+6012    3M SCOTCHCAL BLACK 24"X50Y          $332    2       $664
