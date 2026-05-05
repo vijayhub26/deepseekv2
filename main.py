@@ -286,12 +286,7 @@ Examples:
         default=None,
         help="Path to custom corrections JSON file (default: corrections.json).",
     )
-    parser.add_argument(
-        "--evaluate",
-        type=str,
-        default=None,
-        help="Path to ground truth text file or directory for evaluation (generates _eval.txt report).",
-    )
+
     parser.add_argument(
         "-v", "--verbose",
         action="store_true",
@@ -406,33 +401,7 @@ Examples:
         logger.info(f"  {'Max page:':<14} {max_time:>7.1f}s  ({max_time/60:.1f} min)")
         logger.info(f"  {'Total:':<14} {total_elapsed:>7.1f}s  ({total_elapsed/60:.1f} min)")
 
-    # Evaluation
-    if args.evaluate:
-        from evaluate import compute_metrics, format_report
-        gt_base_path = Path(args.evaluate)
-        
-        for out_file in output_files:
-            if gt_base_path.is_file():
-                current_gt = gt_base_path
-            else:
-                current_gt = gt_base_path / out_file.name
-                
-            if current_gt.exists():
-                logger.info(f"Evaluating {out_file.name} against {current_gt.name}...")
-                with open(current_gt, "r", encoding="utf-8") as f:
-                    gt_text = f.read()
-                with open(out_file, "r", encoding="utf-8") as f:
-                    ocr_text = f.read()
-                    
-                metrics = compute_metrics(gt_text, ocr_text)
-                report = format_report(metrics, label=f"Evaluation: {out_file.name} vs {current_gt.name}")
-                
-                eval_path = output_dir / f"{out_file.stem}_eval.txt"
-                with open(eval_path, "w", encoding="utf-8") as f:
-                    f.write(report)
-                logger.info(f"  -> Report saved: {eval_path.name}")
-            else:
-                logger.warning(f"Could not find ground truth for evaluation: {current_gt}")
+
 
     # Cleanup
     ocr_engine.unload()

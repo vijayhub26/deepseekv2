@@ -1,6 +1,6 @@
 # DeepSeek-OCR-2 Pipeline
 
-A robust, quantized OCR pipeline leveraging DeepSeek-OCR-2. It processes PDFs, handles automatic page-splitting, corrects common OCR errors via a custom dictionary, and evaluates text against ground truth. 
+A robust, quantized OCR pipeline leveraging DeepSeek-OCR-2. It processes PDFs, handles automatic page-splitting, and corrects common OCR errors via a custom dictionary.
 
 Optimized for 4GB VRAM GPUs (GTX 1650) via 4-bit NF4 quantization and CPU offloading.
 
@@ -25,14 +25,16 @@ Run a single PDF:
 .\venv\Scripts\python.exe main.py samples/batch1-0001.pdf
 ```
 
-Run a PDF and evaluate against Ground Truth:
-```bash
-.\venv\Scripts\python.exe main.py samples/batch1-0001.pdf --evaluate ground_truth/groundtruth_b1.txt
-```
-
 Run an entire directory:
 ```bash
-.\venv\Scripts\python.exe main.py samples/ --evaluate ground_truth/
+.\venv\Scripts\python.exe main.py samples/
+```
+
+### Evaluation
+Evaluation has been detached from the main pipeline. To evaluate the generated output against ground truth, run `evaluate.py` separately:
+
+```bash
+.\venv\Scripts\python.exe evaluate.py output/batch1-0001.txt ground_truth/groundtruth_b1.txt
 ```
 
 ## Configuration
