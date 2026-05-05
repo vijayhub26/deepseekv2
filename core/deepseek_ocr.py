@@ -137,6 +137,10 @@ class DeepSeekOCR:
         )
         self.model.eval()
 
+        # Silence generation warnings about pad_token_id
+        if getattr(self.model, "generation_config", None):
+            self.model.generation_config.pad_token_id = self.tokenizer.eos_token_id
+
         elapsed = time.time() - start
         logger.info(f"Model loaded in {elapsed:.1f}s")
 
