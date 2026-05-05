@@ -1,6 +1,6 @@
 {
   "output_dir": "./output",
-  "dpi": 300,
+  "dpi": 200,
   "image_size": 768,
   "base_size": 1024,
   "no_layout": false,

@@ -13,10 +13,10 @@ Uses <|grounding|> token for layout-preserving mode.
 # document structure, tables, and formatting in its output.
 # The prompt explicitly asks for headers/invoice numbers to reduce omissions.
 LAYOUT_OCR_PROMPT = (
-    "<image>\n<|grounding|>Convert the document to markdown, preserving the exact layout and spatial structure of the original document. "
-    "Capture every single piece of text, including all headers, invoice numbers, "
-    "company names, addresses, dates, continuation labels, and full table content. "
-    "Ensure that no information is omitted and the visual hierarchy is maintained."
+    "<image>\n<|grounding|>Convert the entire document to markdown. "
+    "Capture every element on the page including all headers, invoice numbers, "
+    "company names, addresses, dates, continuation labels, and table data. "
+    "Do not skip any text."
 )
 
 # Free OCR prompt.
