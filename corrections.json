@@ -54,7 +54,9 @@
         "Subtotal": "Subtotal",
         "Subtotai": "Subtotal",
         "SUMMAY": "SUMMARY",
-        "SUMARY": "SUMMARY"
+        "SUMARY": "SUMMARY",
+        "Ihazlett@nussbaumcfe.com": "lhazlett@nussbaumcfe.com",
+        "Ihazlett": "lhazlett"
     },
 
     "phrases": {
@@ -69,12 +71,6 @@
     },
 
     "regex": [
-        {
-            "_comment": "Fix double quote being used instead of single quote for feet after an x dimension (e.g. 12\"x1000\")",
-            "pattern": "x(\\d+)\"",
-            "replacement": "x\\1'",
-            "ignore_case": true
-        },
         {
             "_comment": "Strip leftover LaTeX escaped parens \\( and \\)",
             "pattern": "\\\\[\\(\\)]",
@@ -142,9 +138,9 @@
             "ignore_case": false
         },
         {
-            "_comment": "Normalize multiplication sign in dimensions: x -> x (lowercase)",
-            "pattern": "(\\d)\\s*[Xx\u00d7]\\s*(\\d)",
-            "replacement": "\\1x\\2",
+            "_comment": "Remove extra spaces before colons",
+            "pattern": "(\\w)\\s+:",
+            "replacement": "\\1:",
             "ignore_case": false
         }
     ]
