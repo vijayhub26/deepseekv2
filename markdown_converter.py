@@ -81,16 +81,7 @@ def render_table(soup_table) -> str:
             )
             lines.append(line.rstrip())
             
-        # Only draw the separator if the first row actually looks like a header
-        if idx == 0:
-            is_header = True
-            for cell in row:
-                # If a cell has a currency symbol or is just a number, it's data, not a header
-                if re.search(r'[\$£€]', cell) or re.match(r'^\s*[\d.,]+\s*$', cell):
-                    is_header = False
-                    break
-            if is_header:
-                lines.append(sep)
+
  
     return "\n".join(lines)
  
